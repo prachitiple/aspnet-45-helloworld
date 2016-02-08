@@ -2,9 +2,9 @@
 
 <html>
 <head>
-    <title>Sample Application</title>
+    <title>Hello World Application - ASP.NET 4.6</title>
 </head>
 <body>
-    <asp:Calendar ShowTitle="true" runat="server"></asp:Calendar>
+    <asp:Label runat="server" Text="Hello World" Font-Size="X-Large"></asp:Label>
 </body>
 </html>
